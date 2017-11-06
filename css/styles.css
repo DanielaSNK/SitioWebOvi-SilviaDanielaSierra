@@ -67,7 +67,7 @@ a{
 }
 
 
-.menu:link{color:#FFF; text-decoration:none}
+.menu:link{color:#005883; text-decoration:none}
 .menu:visited{color:#005883; text-decoration:none; background:#FFF}
 .menu:hover{color:#FFF; text-decoration:none; background:#F0B429}
 .menu:active{color:#FFF; text-decoration:none; background:#005883}
